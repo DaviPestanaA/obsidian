@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiser/Criativos Meta/Templates/Novo Template/Regras.md",
+                "file": "Wiser/Criativos Meta/Regras de comunidade Meta/Regras.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,8 +186,13 @@
   },
   "active": "099402d0e6edc6ed",
   "lastOpenFiles": [
-    "Workspace/CONTEXT.md",
+    "Wiser/Criativos Meta/Instruçoes para melhoria/Instruçoes.md",
+    "Wiser/Criativos Meta/Instruçoes para melhoria/Sem título 2.md",
+    "Wiser/Criativos Meta/Instruçoes para melhoria/Aumento CTR.md",
     "Wiser/Criativos Meta/Templates/Novo Template/Regras.md",
+    "Wiser/Criativos Meta/Sem título/Sem título.md",
+    "Wiser/Criativos Meta/Instruçoes para melhoria",
+    "Workspace/CONTEXT.md",
     "Wiser/Criativos Meta/Templates/Novo Template/Templates novos",
     "Wiser/Criativos Meta/Templates/Novo Template/Sem título.md",
     "Wiser/Criativos Meta/Templates/Novo Template",
@@ -211,15 +216,11 @@
     "Wiser/Criativos Meta/Copy/Aprovados/Subheadline.md",
     "Criativos Meta/Copy/Aprovados/Subheadline.md",
     "Wiser/Criativos Meta/Copy/Aprovados/CTA.md",
-    "Criativos Meta/Copy/Aprovados/CTA.md",
-    "Wiser/Criativos Meta/Copy/Aprovados/Hooks.md",
-    "Wiser/Criativos Meta/Variaçoes/Matriz.md",
     "Wiser/Criativos Meta/Variaçoes",
     "Workspace",
     "Templates",
     "Workspace/Memory/Projects",
     "Workspace/Memory/Context",
-    "Workspace/Memory",
-    "Criativos Meta/Modelos/Aprovados"
+    "Workspace/Memory"
   ]
 }

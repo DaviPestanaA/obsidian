@@ -29,3 +29,103 @@ Nunca afirmar ou sugerir que o usuário:
 
 ### Princípio geral
 Em caso de dúvida, priorizar uma comunicação informativa, neutra e verificável.
+
+# META ADS POLICIES
+
+## OBJETIVO
+
+Garantir máxima conformidade com políticas da Meta Ads para reduzir:
+- reprovações
+- bloqueios
+- limitações de conta
+- aumento de CPM
+- perda de confiança algorítmica
+
+---
+
+# PRINCÍPIOS IMPORTANTES
+
+## EVITAR:
+
+### Atributos pessoais
+Exemplos perigosos:
+- "Você está pobre?"
+- "Você sofre com..."
+- "Você foi selecionado"
+- "Você recebeu"
+
+Preferir:
+- "Descubra oportunidades disponíveis"
+- "Veja opções atuais"
+- "Conheça benefícios disponíveis"
+
+---
+
+## EVITAR FALSAS PROMESSAS
+
+Nunca prometer:
+- dinheiro garantido
+- recompensas garantidas
+- seleção garantida
+- resultados absolutos
+
+Preferir:
+- "Usuários relatam..."
+- "Descubra como funciona"
+- "Veja opções disponíveis"
+
+---
+
+## EVITAR CLICKBAIT ABUSIVO
+
+Evitar:
+- fake notifications
+- fake errors
+- fake alerts
+- botões enganosos
+- urgência extrema
+
+---
+
+## EVITAR ESTÉTICA SCAM
+
+Sinais perigosos:
+- excesso de vermelho
+- excesso de urgência
+- promessas irreais
+- aparência de golpe
+- linguagem agressiva
+
+---
+
+# BOAS PRÁTICAS
+
+Priorizar:
+- naturalidade
+- clareza
+- transparência
+- experiência do usuário
+- aparência orgânica
+
+---
+
+# CHECKLIST ANTES DE PUBLICAR
+
+- Parece golpe?
+- Parece fake?
+- Promete algo absoluto?
+- Usa atributos pessoais?
+- Gera confiança?
+- Parece orgânico?
+- Parece exagerado?
+- A landing corresponde ao anúncio?
+
+---
+
+# LINKS OFICIAIS META
+
+## Políticas de Publicidade
+https://transparency.fb.com/pt-br/policies/ad-standards/
+
+## Central de Políticas Comerciais
+https://www.facebook.com/business/help
