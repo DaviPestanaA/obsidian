@@ -33,7 +33,6 @@
 - radial purple (center white, edges #C4B5E8)
 - crimson gradient #8B0000 to #C0112A
 - pastel pink #FFE4EC
-- dark navy #1A1A3E
 
 ## Cores Bag/Box (10)
 - hot pink #FF2D78
