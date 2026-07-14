@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workspace/SOUL.md",
+                "file": "Wiser/Criativos Meta/Templates/Novo Template/Regras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOUL"
+              "title": "Regras"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "47a80fe868802b1b",
@@ -184,10 +184,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "510d02c13182ff10",
+  "active": "099402d0e6edc6ed",
   "lastOpenFiles": [
-    "Workspace/INDEX.md",
     "Workspace/CONTEXT.md",
+    "Wiser/Criativos Meta/Templates/Novo Template/Regras.md",
+    "Wiser/Criativos Meta/Templates/Novo Template/Templates novos",
+    "Wiser/Criativos Meta/Templates/Novo Template/Sem título.md",
+    "Wiser/Criativos Meta/Templates/Novo Template",
+    "Wiser/Criativos Meta/Templates/Aprovados/Criativo 2.md",
+    "Wiser/Criativos Meta/Templates/Teste/Sem título",
+    "Wiser/Criativos Meta/Templates/Sem título.md",
+    "Wiser/Criativos Meta/Templates/Aprovados/Gift Box.md",
+    "Wiser/Criativos Meta/Templates/Aprovados/Sacola.md",
+    "Wiser/Criativos Meta/Templates/Aprovados/Notification Pop Up.md",
+    "Wiser/Criativos Meta/Regras de comunidade Meta/Regras.md",
+    "Wiser/Criativos Meta/Regras de comunidade Meta/Recomendacoes.md",
+    "Workspace/SOUL.md",
+    "Workspace/INDEX.md",
     "Workspace/Memory/Context/people.md",
     "Compliance/Regras.md",
     "Workspace/Memory/Context/lessons.md",
@@ -202,25 +215,11 @@
     "Wiser/Criativos Meta/Copy/Aprovados/Hooks.md",
     "Wiser/Criativos Meta/Variaçoes/Matriz.md",
     "Wiser/Criativos Meta/Variaçoes",
-    "Criativos Meta/Modelos/Aprovados/Criativo 1.md",
-    "Criativos Meta/Modelos/Aprovados/Criativo 2.md",
-    "Criativos Meta/Modelos/Aprovados/Criativo 3.md",
-    "Criativos Meta/Modelos/Aprovados/Criativo 4.md",
-    "Criativos Meta/Regras de comunidade Meta/Recomendacoes.md",
-    "Criativos Meta/Regras de comunidade Meta/Regras.md",
-    "Wiser/Criativos Meta/Regras de comunidade Meta/Recomendacoes.md",
-    "Wiser/Criativos Meta/Templates/Aprovados/Gift Box.md",
-    "Templates/templates.md",
-    "Wiser/Criativos Meta/Templates/Aprovados/Criativo 2.md",
-    "Wiser/Criativos Meta/Templates/Aprovados/Notification Pop Up.md",
     "Workspace",
     "Templates",
     "Workspace/Memory/Projects",
     "Workspace/Memory/Context",
     "Workspace/Memory",
-    "Criativos Meta/Modelos/Aprovados",
-    "Criativos Meta/Copy/Aprovados",
-    "Criativos Meta/Regras de comunidade Meta",
-    "Criativos Meta/Modelos"
+    "Criativos Meta/Modelos/Aprovados"
   ]
 }
