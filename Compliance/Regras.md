@@ -1,6 +1,6 @@
-# Regras de Compliance Meta Ads
+# COMPLIANCE — Meta Ads
 
-## Regras operacionais
+## Regras operacionais (não teóricas)
 
 ### Badge
 - ❌ "FREE SHEIN" direto = reprova ~30-40% em conta nova
@@ -31,27 +31,3 @@
 - Sem personalização falsa
 - Sem superlativos, sem dashes " — "
 - Classificação de risco: sempre 🟢 Baixo
-
-## Políticas do Meta
-
-### Deceptive Practices
-"Ads must not promote products, services, schemes or offers using deceptive or misleading practices"
-
-### Spam
-"Content designed to deceive, mislead, or overwhelm users to artificially increase viewership"
-
-### Misrepresentation
-"Signals of possible misrepresentation, suspicious activity, or inauthentic behavior"
-
-### Phishing/Social Engineering
-"Ads must not use phishing or social engineering techniques"
-
-## Word swap reference
-
-| Original trigger | Safe swaps (pick one) |
-|---|---|
-| "deal alert" | "heads up", "just in", "check this out", "new pick", "for you" |
-| "dropped something in your bag" | "left something for you", "saved something for you", "has something waiting" |
-| "unlocked something for you" | "ready for you", "has something for you", "next level ready" |
-| SHEIN DEAL badge | SHEIN PICK / SHEIN FIND |
-| SHEIN ALERT badge | SHEIN FIND / SHEIN PICK |
