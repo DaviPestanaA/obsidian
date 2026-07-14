@@ -105,6 +105,77 @@
 
 ---
 
+## SELO SECUNDÁRIO (FREE OFFER)
+- Pequeno selo/botão verde abaixo do subtítulo
+- Formato: cápsula horizontal
+- Largura: ~245px
+- Altura: ~55px
+- Cantos totalmente arredondados
+- Cor: verde-escuro, `#3E8735`
+- Sem contorno
+- Sem sombra forte
+- Centralizado horizontalmente
+
+### Texto do Selo
+- **TEXTO:** `FREE OFFER`
+- Fonte: sans-serif
+- Caixa alta
+- Peso: medium ou semibold
+- Cor: branca
+- Tamanho: ~28px
+- Centralizado perfeitamente dentro do selo
+
+---
+
+## BOTÃO PRINCIPAL (ACTIVATE GIFT)
+- Grande botão verde na parte inferior do card
+- Formato: retangular horizontal, extremidades totalmente arredondadas
+- Largura: ~85% do card
+- Altura: ~95px
+- Cor: verde sólida, `#5AA845`
+- Sem degradê
+- Sem contorno
+- Sombra verde muito suave abaixo do botão
+- Centralizado horizontalmente
+- ~35px abaixo do selo "FREE OFFER"
+- Margem inferior confortável em relação à base do card
+
+### Texto do Botão
+- **TEXTO:** `ACTIVATE GIFT`
+- Fonte: sans-serif moderna
+- Caixa alta
+- Peso: semibold ou bold
+- Cor: branca
+- Tamanho: ~39px
+- Centralizado horizontal e verticalmente
+- SEM ícones ou setas
+
+---
+
+## ORGANIZAÇÃO DA COMPOSIÇÃO
+Hierarquia visual (de cima para baixo):
+1. **Cabeçalho** — logotipo SHEIN + botão de fechar
+2. **Imagem do produto** — air fryer centralizada
+3. **Título principal** — "Your reward has been confirmed"
+4. **Subtítulo** — "Your gift is almost ready to be sent."
+5. **Selo FREE OFFER** — cápsula verde
+6. **Botão ACTIVATE GIFT** — botão verde grande
+
+### Regras de Composição
+- Todos os elementos perfeitamente centralizados e alinhados
+- Bastante espaço branco entre os elementos
+- Aparência limpa, comercial, semelhante a pop-up de aplicativo
+
+### NÃO ADICIONAR
+- Pessoas, roupas
+- Caixas de presente, confetes, moedas
+- Setas ou elementos extras
+- Barras de navegação
+- Botão de reprodução ou aparência de vídeo
+- Qualquer erro ortográfico nos textos
+
+---
+
 ## VARIAÇÕES POSSÍVEIS
 - **Produto:** trocar air fryer por outros produtos (fones, smartwatch, bolsa, etc.)
 - **Fundo:** variar tom pêssego para outros tons pastel (lavanda, mint, rosa claro)
