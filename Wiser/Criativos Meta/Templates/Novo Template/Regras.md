@@ -11,7 +11,8 @@ Antes de gerar qualquer layout:
 - Discuta vantagens e desvantagens de cada ideia.
 - Trabalhe junto com o usuário até definir a melhor direção.
 - Nunca gere um template sem antes validar o conceito quando a direção ainda não estiver clara.
-
+- Nunca gere coisas como espelho, tela de celular, e coisas que tiram foco do criativo, como price tag tb
+ 
 ### 2. Compliance
 
 Todo template deve seguir as regras de Compliance Meta.
