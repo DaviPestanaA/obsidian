@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soma/Clientes/André/Testes.md",
+                "file": "Wiser/Criativos Meta/Copy/Bons desempenhos/Copy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testes"
+              "title": "Copy"
             }
           }
         ]
@@ -184,8 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "510d02c13182ff10",
+  "active": "099402d0e6edc6ed",
   "lastOpenFiles": [
+    "Soma/Clientes/André/Testes.md",
+    "Wiser/Criativos Meta/Copy/Bons desempenhos/Copy.md",
+    "Wiser/Criativos Meta/Copy/Bons desempenhos",
     "Soma/Clientes/Rosana/Testes.md",
     "Soma/Clientes/Rosana/Criativos.md",
     "Soma/Clientes/Rosana/Acessos.md",
@@ -211,16 +214,13 @@
     "Soma/Clientes/Dayane/Acessos.md",
     "Soma/Clientes/Dayane",
     "Soma/Clientes/André/Criativos.md",
-    "Soma/Clientes/André/Testes.md",
     "Soma/Clientes/André/Acessos.md",
     "Wiser/Criativos Meta/Templates/Aprovados/Delivery Box.md",
     "Soma/Clientes/Dayane",
     "Soma/Clientes/Laura",
     "Soma/Clientes/Rayssa",
-    "Soma/Clientes/Marcelo",
     "Wiser/Criativos Meta/Templates/Aprovados/Air Fryer Reward Confirmation.md",
     "Wiser/Criativos Meta/Templates/Aprovados/Air Fryer Reward - Variations.md",
-    "Wiser/Criativos Meta/Templates/Aprovados/Gift Box.md",
-    "Wiser/Criativos Meta/Templates/Aprovados/Notification Pop Up.md"
+    "Wiser/Criativos Meta/Templates/Aprovados/Gift Box.md"
   ]
 }
