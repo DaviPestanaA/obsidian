@@ -6,6 +6,13 @@
 
 Mensagem de reativação enviada fora da janela de 24h em fluxos WhatsApp/Messenger. Precisa ser aprovada pela Meta/WhatsApp — deve parecer natural, humanizada e não agressiva. Objetivo: fazer o usuário clicar e voltar ao site.
 
+## Formato Visual
+
+- **Formato:** retangular 16:9 horizontal (ex: 1200×628px) para template Messenger
+- **NUNCA** usar formato quadrado 900×900 em broads
+- **CTA:** varia por broad, mas sempre dentro da estrutura de compliance (ex: "View Details", "See More", etc.)
+- Este formato é **apenas para broads** — criativos mantêm seus formatos próprios
+
 ---
 
 ## Estrutura Obrigatória
