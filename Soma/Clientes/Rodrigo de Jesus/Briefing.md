@@ -341,3 +341,38 @@ O primeiro objetivo é aquecer audiência, aumentar seguidores qualificados e cr
 Rodrigo ajuda empresários, lojistas e donos de e-commerce a saírem da dependência do atacado nacional e aprenderem a importar direto da China, com estrutura, segurança e estratégia, para aumentar margem e construir marca própria.
 
 **
+
+## Estilo do criativo atual — Importação da China
+
+**Estilo visual:** Criativo promocional com estética de animação 3D, cores vibrantes e composição ilustrativa. Utiliza um personagem masculino em estilo cartoon 3D, vestido com roupa social, centralizado em primeiro plano. O cenário apresenta porto comercial, contêineres, navios e guindastes, reforçando visualmente o universo da importação.
+
+**Paleta de cores:** Predominância de azul e laranja, com iluminação quente de pôr do sol. A headline utiliza tons de bege com contorno escuro e sombra, enquanto o CTA aparece em azul.
+
+**Tipografia:** Letras grandes, grossas e em caixa alta na headline, com efeito de profundidade. Textos explicativos menores, em preto, centralizados na parte superior.
+
+**Hierarquia visual:**
+
+1. Headline de alto impacto na parte superior.
+    
+2. Subheadline apresentando o benefício financeiro.
+    
+3. Texto explicativo sobre importação direta da China.
+    
+4. Personagem 3D em destaque no centro.
+    
+5. Oferta gratuita com preço original riscado (R$390 → R$0,00).
+    
+6. CTA em formato de botão na parte inferior.
+    
+
+**Abordagem de copy:** Comunicação educativa e comercial, focada na oportunidade de importar diretamente da China, reduzir custos e aumentar margens de lucro. Utiliza linguagem simples, promessa de economia e orientação para iniciantes.
+
+**Gatilhos persuasivos:** Curiosidade, benefício financeiro, ancoragem de preço, gratuidade e facilidade para começar.
+
+**CTA:** "Preencha o formulário e descubra como começar."
+
+**Características marcantes:** Estética ilustrativa 3D, cenário temático, personagem simpático, headline com efeito de sombra, oferta gratuita destacada e chamada para preenchimento de formulário.
+
+**Pontos de atenção:** Excesso de texto pequeno na região superior, especialmente para visualização mobile. O personagem ocupa grande parte da peça e compete com a oferta. A identidade visual é chamativa, mas tem aparência mais lúdica do que corporativa.
+
+**Resumo da direção criativa:** Anúncio ilustrativo 3D com estética comercial, personagem central, ambientação temática e forte apelo de oportunidade financeira. Combina uma headline impactante, explicação educativa, ancoragem de preço e CTA direto para geração de leads.
