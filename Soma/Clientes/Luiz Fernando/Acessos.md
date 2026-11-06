@@ -21,3 +21,7 @@ E-mail:Nandorf6@hotmail.com
 
 Tel:(18
 CPF:337.778.488-83
+
+[14/10/2026, 14:45:47] Gabriel Dias: Facebook 
+Nando201214F
+[14/10/2026, 14:45:47] Gabriel Dias: Nandorf6@hotmail.com
